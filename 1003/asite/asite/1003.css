@@ -1,0 +1,27 @@
+@charset "utf-8";
+.main {
+    background-color: #84A1FF;
+    width: 300px;
+    height: 150px;
+    -webkit-box-shadow: 0px 0px #096A72;
+    box-shadow: 0px 0px #096A72;
+}
+.myphoto {
+    height: 150px;
+    min-width: 100px;
+    background-color: #01DAFD;
+    float: left;
+}
+.main {
+}
+
+.mytext {
+    width: 200px;
+    height: 150px;
+    float: right;
+}
+.myphoto {
+    width: 100px;
+    height: 150px;
+    background-color: #0078BB;
+}
